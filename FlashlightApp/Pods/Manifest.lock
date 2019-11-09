@@ -10,6 +10,13 @@ DEPENDENCIES:
   - LetsMove
   - Sparkle
 
+SPEC REPOS:
+  trunk:
+    - GRMustache
+    - JRSwizzle
+    - LetsMove
+    - Sparkle
+
 SPEC CHECKSUMS:
   GRMustache: ebe6104fd30a6d22c1f36af131e19e2dbf7cd292
   JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
@@ -18,4 +25,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: ef1ae53ad46d4b77c76cf6546c6776c2900b6c90
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.8.3
